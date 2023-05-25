@@ -1,0 +1,119 @@
+%YAML:1.0
+
+Camera.type: "KannalaBrandt8"
+
+# Camera1 calibration and distortion parameters (OpenCV)
+Camera1.fx: 431.8001960152072
+Camera1.fy: 428.1084233601574
+Camera1.cx: 581.3641658216108
+Camera1.cy: 312.3893487722951
+
+Camera1.k1: 0.2784456075209703
+Camera1.k2: 0.1125068309330323
+Camera1.k3: -0.119389789636167
+Camera1.k4: 0.03493156773321348
+
+# Camera2 calibration and distortion parameters (OpenCV)
+Camera2.fx: 426.0970167397989
+Camera2.fy: 424.7815905626437
+Camera2.cx: 596.6479454318591
+Camera2.cy: 359.7167634580495
+
+Camera2.k1: 0.2926073760908074
+Camera2.k2: 0.1160592862968629
+Camera2.k3: -0.1314193817497249
+Camera2.k4: 0.03957529336759835
+
+# Camera3 calibration and distortion parameters (OpenCV)
+Camera3.fx: 428.0286422377467
+Camera3.fy: 426.1210470653537
+Camera3.cx: 641.2707100078457
+Camera3.cy: 421.6776800926181
+
+Camera3.k1: 0.2935450528380706
+Camera3.k2: 0.10100735443855
+Camera3.k3: -0.11354153511121
+Camera3.k4: 0.0332742864355625
+
+# Camera4 calibration and distortion parameters (OpenCV)
+Camera4.fx: 426.6673804732409
+Camera4.fy: 424.9269279689466
+Camera4.cx: 632.3899283957567
+Camera4.cy: 398.6150688737831
+
+Camera4.k1: 0.3118169814882291
+Camera4.k2: 0.08119976917958859
+Camera4.k3: -0.1057355849577641
+Camera4.k4: 0.03279457507408633
+
+# Camera5 calibration and distortion parameters (OpenCV)
+Camera5.fx: 426.1605384232943
+Camera5.fy: 424.6307210222524
+Camera5.cx: 597.137535655019
+Camera5.cy: 329.6839396350246
+
+Camera5.k1: 0.2954234210111299
+Camera5.k2: 0.115356663151116
+Camera5.k3: -0.1353619573795677
+Camera5.k4: 0.04185477775492689
+
+# Camera5 calibration and distortion parameters (OpenCV)
+Camera5.fx: 426.7727106144316
+Camera5.fy: 424.5778936154587
+Camera5.cx: 626.9560896027778
+Camera5.cy: 307.7463590461664
+
+Camera5.k1: 0.2940242315127932
+Camera5.k2: 0.0964780727187621
+Camera5.k3: -0.1080052215396971
+Camera5.k4: 0.03166777938934563
+
+# Camera2 Extrinsic
+MCOV.T_camera1_camera2: !!opencv-matrix
+  rows: 4
+  cols: 4
+  dt: f
+  data: [   0.348693,  0.00722167,    0.937209,    0.436912,
+         -0.00159656,    0.999973,  -0.0071113, -0.00217169,
+           -0.937236, 0.000983346,    0.348695,  -0.0255594,
+                 0.0,         0.0,         0.0,         1.0]
+
+# Camera3 Extrinsic
+MCOV.T_camera1_camera3: !!opencv-matrix
+  rows: 4
+  cols: 4
+  dt: f
+  data: [  -0.345239,   0.0196667,    0.938309,    0.437834,
+         -0.00786786,    0.999685,   -0.023848, -0.00541122,
+           -0.938482,  -0.0156157,   -0.344975,   -0.406888,
+                 0.0,         0.0,         0.0,         1.0]
+
+# Camera4 Extrinsic
+MCOV.T_camera1_camera4: !!opencv-matrix
+  rows: 4
+  cols: 4
+  dt: f
+  data: [  -0.999955,  -0.0070361,  0.00643408,  0.00402976,
+         -0.00719587,    0.999658,  -0.0251564, -0.00628708,
+         -0.00625487,  -0.0252016,   -0.999663,   -0.441493,
+                 0.0,         0.0,         0.0,         1.0]
+
+# Camera5 Extrinsic
+MCOV.T_camera1_camera5: !!opencv-matrix
+  rows: 4
+  cols: 4
+  dt: f
+  data: [   -0.346567,    0.0147335,    -0.937909,    -0.437006,
+            0.0165696,     0.999817,   0.00958341, -0.000716588,
+             0.937879,   -0.0122195,    -0.346748,     -0.41272,
+                  0.0,          0.0,          0.0,          1.0]
+
+# Camera6 Extrinsic
+MCOV.T_camera1_camera6: !!opencv-matrix
+  rows: 4
+  cols: 4
+  dt: f
+  data: [    0.339982, -0.000449727,    -0.940432,    -0.438725,
+          0.000653281,          1.0, -0.000242041,   0.00338944,
+             0.940432, -0.000532077,     0.339982,   -0.0298978,
+                  0.0,          0.0,          0.0,          1.0]

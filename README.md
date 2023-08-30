@@ -18,12 +18,12 @@ Schematics of the acquisition platform is given below. The camera intrinsics and
 
 ### Dataset Source
 
-| Sequence Name | Duration(s) | Size(GB) |                             Link                             |
-| :-----------: | :---------: | :------: | :----------------------------------------------------------: |
-|    route1     |    430.3    |   10.0   | [BaiduNetdisk](https://pan.baidu.com/s/1n_a9Tdg3Z0tOtRrHSy2Iuw?pwd=oe6h) |
-|    route2     |    628.1    |   14.0   | [BaiduNetdisk](https://pan.baidu.com/s/1JJLdJetYOFf1XY3O-ZCAeQ?pwd=jsop) |
-|    route3     |    631.6    |   10.4   | [BaiduNetdisk](https://pan.baidu.com/s/156ROJfElnw8rBYlhiP7rMQ?pwd=t7ez) |
-|    route4     |    639.7    |   12.9   | [BaiduNetdisk](https://pan.baidu.com/s/1m4cAL34WfiRaY8ZAp7ukDQ?pwd=36fv) |
+| Sequence Name | Duration(s) | Size(GB) |                            Link 1                            |                          Link 2                          |                            Link 3                            |
+| :-----------: | :---------: | :------: | :----------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: |
+|    route1     |    430.3    |   10.0   | [Google Drive](https://drive.google.com/drive/folders/1H4k9QMEeJE_hdbrdfgAg0aCVhEV07sNi) | [TeraBox](https://terabox.com/s/1mnyhGlPjYCxgxPR5hkb-8A) | [BaiduNetdisk](https://pan.baidu.com/s/1n_a9Tdg3Z0tOtRrHSy2Iuw?pwd=oe6h) |
+|    route2     |    628.1    |   14.0   | [Google Drive](https://drive.google.com/drive/folders/1Qn32n2TpDJHP1ETtdA0jL9ELrKC_vkda) | [TeraBox](https://terabox.com/s/1Dhl9b3FNRHG1kHrwgIve3w) | [BaiduNetdisk](https://pan.baidu.com/s/1JJLdJetYOFf1XY3O-ZCAeQ?pwd=jsop) |
+|    route3     |    631.6    |   10.4   | [Google Drive](https://drive.google.com/drive/folders/1oy1ElKlke8hpDk4Snc8kKHcYPXSAFraw) | [TeraBox](https://terabox.com/s/1cBNZafyDbPBj-O93NH8A-g) | [BaiduNetdisk](https://pan.baidu.com/s/156ROJfElnw8rBYlhiP7rMQ?pwd=t7ez) |
+|    route4     |    639.7    |   12.9   | [Google Drive](https://drive.google.com/drive/folders/1vlw0GoEQR39AgyoJUmpsoPfA1BVp4JZ9) | [TeraBox](https://terabox.com/s/1jwHc8U95Bqki3ZcabjHqMQ) | [BaiduNetdisk](https://pan.baidu.com/s/1m4cAL34WfiRaY8ZAp7ukDQ?pwd=36fv) |
 
 
 
